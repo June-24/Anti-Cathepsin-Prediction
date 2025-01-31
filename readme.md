@@ -184,9 +184,5 @@ Various feature elimination methods were applied to reduce the dimensionality of
 | Multi Layer Perceptron Regression| 95.89                  | 81.85                    | 95.99                    | 79.62                    |
 | **Custom 1D CNN**              | **97.69**                | **87.95**                | **96.52**                | **93.00**                |
 
-For the CNN row, the accuracy results for each category are as follows:
-- **Cathepsin B**: 97.33%
-- **Cathepsin S**: 86.51%
-- **Cathepsin D**: 96.98%
-- **Cathepsin K**: 90.71%
+
 
