@@ -1,8 +1,8 @@
 
-# Cathepsin Ligand Classification using 1D CNN
+# A Novel Deep Learning Approach to Anti-Cathepsin Activity Prediction in Drug Discovery using Molecular Descriptors and Feature Elimination
 
-## Project Overview
-This project focuses on predicting the interactions of ligands with cathepsins B, S, D, and K using machine learning techniques. The datasets from BindingDB and ChEMBL were utilized, with IC50 values classified into four categories: potent, active, intermediate, and inactive. Ligands in SMILES format were converted to 217 descriptors, which were used as input to a 1D Convolutional Neural Network (CNN) for classification. The project also addressed challenges like large input sizes and data imbalance using SMOTE and feature elimination techniques.
+## Research Overview
+This research focuses on predicting the interactions of ligands with cathepsins B, S, D, and K using machine learning techniques. The datasets from BindingDB and ChEMBL were utilized, with IC50 values classified into four categories: potent, active, intermediate, and inactive. Ligands in SMILES format were converted to 217 descriptors, which were used as input to a 1D Convolutional Neural Network (CNN) for classification. The research also addressed challenges like large input sizes and data imbalance using SMOTE and feature elimination techniques.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -15,10 +15,10 @@ This project focuses on predicting the interactions of ligands with cathepsins B
 8. [Dependencies](#dependencies)
 
 ## Introduction
-Cathepsins are a family of proteases involved in various physiological processes. In this project, we focus on predicting how ligands interact with cathepsins B, S, D, and K, which are crucial for drug development. The goal was to classify ligands based on their IC50 values, which represent the potency of a ligand in inhibiting a particular enzyme.
+Cathepsins are a family of proteases involved in various physiological processes. In this research, we focus on predicting how ligands interact with cathepsins B, S, D, and K, which are crucial for drug development. The goal was to classify ligands based on their IC50 values, which represent the potency of a ligand in inhibiting a particular enzyme.
 
 ## Dataset
-The dataset used in this project was sourced from:
+The dataset used in this research was sourced from:
 - **BindingDB**: A public repository of measured binding affinities, including IC50 values for protein-ligand interactions.
 - **ChEMBL**: A database of bioactive drug-like molecules with annotated biological activity.
 
