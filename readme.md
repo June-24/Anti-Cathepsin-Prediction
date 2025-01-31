@@ -1,5 +1,5 @@
 
-# A Novel Deep Learning Approach to Anti-Cathepsin Activity Prediction in Drug Discovery using Molecular Descriptors and Feature Elimination
+# A Deep Learning Approach to Anti-Cathepsin Activity Prediction in Drug Discovery using Molecular Descriptors and Feature Elimination
 
 ## Research Overview
 This research focuses on predicting the interactions of ligands with cathepsins B, S, D, and K using machine learning techniques. The datasets from BindingDB and ChEMBL were utilized, with IC50 values classified into four categories: potent, active, intermediate, and inactive. Ligands in SMILES format were converted to 217 descriptors, which were used as input to a 1D Convolutional Neural Network (CNN) for classification. The research also addressed challenges like large input sizes and data imbalance using SMOTE and feature elimination techniques.
