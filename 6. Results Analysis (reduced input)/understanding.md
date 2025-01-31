@@ -1,10 +1,10 @@
 Molecular descriptors are numerical values that describe various chemical and physical properties of a molecule. The ones you listed come from different categories such as electronic, steric, topological, and hydrophobicity-related properties. Here’s what each of them represents:
 
-### **1. Topological Descriptors**
+### **1. Topological Descriptors** 
 - **Ipc (Information Content Index, Order 2) [58]**  
   A topological descriptor that quantifies molecular complexity by analyzing atom connectivity and structural diversity.
 
-- **HeavyAtomCount [48]**  
+- **HeavyAtomCount [48]**   
   The number of non-hydrogen atoms in a molecule, often correlated with molecular size.
 
 - **MolMR (Molecular Refractivity) [48]**  
@@ -60,5 +60,3 @@ These descriptors use **PEOE (Partial Equalization of Orbital Electronegativitie
 - **Hydrophobicity Descriptors (SlogP_VSA, SMR_VSA)** → Lipophilicity and steric effects  
 - **Charge-Related Descriptors (PEOE_VSA)** → Partial charge distribution  
 - **TPSA** → Polar surface area, drug permeability  
-
-These descriptors are widely used in **cheminformatics, drug discovery, and QSAR modeling** to predict molecular behavior in different environments. Let me know if you need further clarification! 🚀
