@@ -26,6 +26,10 @@ The dataset includes:
 - Ligands that act as drugs interacting with cathepsins.
 - IC50 values indicating ligand potency.
 
+![Data](media/diag.png)
+
+
+
 ### Data Cleaning
 - Retained only data for human species.
 - Removed rows with NaN IC50 values.
