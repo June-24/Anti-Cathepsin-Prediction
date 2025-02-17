@@ -41,3 +41,15 @@ B4-> 40
 B5-> 30
 B6-> 20
 
+
+
+--------------------------------------------------------------------
+there was a big gap between the correlation features:
+so made 6 constant updates:
+
+final selections are:
+varaince: 0.01, 0.1, 0.5, 0.6, 0.7, 0.8
+
+correlation: 0.9, 0.8, 0.7, 0.6, 0.5, 0.4
+
+RFE: 150, 130, 90, 50, 30, 20
